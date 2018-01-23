@@ -1,16 +1,5 @@
 
-<p align="center">
-  <a href="http://leeyom.top"><img src="http://image.leeyom.top/20171225151421354757669.png" alt="Leeyom的个人站"></a>
-</p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-MWeb-red.svg" alt=""></a>
-  <a href="#"><img src="https://travis-ci.org/Alamofire/Alamofire.svg?branch=master" alt=""></a>
-  <a href="#"><img src="https://img.shields.io/packagist/l/doctrine/orm.svg" alt="LICENSE"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-OSX%7CWin%7CLinux-blue.svg" alt=""></a>
-  <a href="#"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt=""></a>   	
-  <a href="#"><img src="https://img.shields.io/badge/framework-hexo-orange.svg" alt=""></a>  
-</p>
 
 # 目的
 
